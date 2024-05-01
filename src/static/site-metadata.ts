@@ -10,18 +10,14 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  siteTitle: 'yakeke.running',
+  siteUrl: 'https://www.instagram.com/yakeke.running/',
+  logo: 'https://scontent-tpe1-1.cdninstagram.com/v/t51.2885-19/440977547_383024668069113_2516382902428045556_n.jpg?stp=dst-jpg_s160x160&_nc_cat=102&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=qtzBZO-BkGsQ7kNvgH49Ver&_nc_ht=scontent-tpe1-1.cdninstagram.com&oh=00_AfBTuIFjyad46m3aQXVA5fbxVZNl5AgtZ6imL1qFqgJdnQ&oe=6637C8AA',
   description: 'Personal site and blog',
   navLinks: [
     {
-      name: 'Blog',
-      url: 'https://github.com/yihong0618/gitblog',
-    },
-    {
-      name: 'About',
-      url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/yakeke.running/',
     },
   ],
 };
