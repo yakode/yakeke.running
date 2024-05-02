@@ -29,7 +29,7 @@ env:
   ATHLETE: Yakeke
   TITLE: yakeke.running
   MIN_GRID_DISTANCE: 5 # change min distance here
-  TITLE_GRID: Over 10km Runs # also here
+  TITLE_GRID: Draw And Run # also here
   GITHUB_NAME: yakode # change to yours
   GITHUB_EMAIL: y8976c@gmail.com # change to yours
 
